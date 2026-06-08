@@ -26,9 +26,6 @@ Tables:
 - basic library management system.sql
 - flowchart.png
 
-## ER Diagram / Flowchart
-(Add image here)
-
 ## Sample Queries
 - Find available books
 - List overdue books
