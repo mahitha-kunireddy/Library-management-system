@@ -23,7 +23,7 @@ Tables:
 - MySQL
 
 ## Project Structure
-- basic library management system.sql
+- library management system.sql
 - flowchart.png
 
 ## Sample Queries
